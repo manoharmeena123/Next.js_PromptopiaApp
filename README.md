@@ -1,4 +1,4 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
+# Next.js 13 Full Stack Project
 ![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
 
 ## Introduction
@@ -16,6 +16,5 @@ In this video, you'll learn:
    - Static Site Generation (SSG)
    - Incremental Static Generation (ISR)
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Deployed Link
+`https://next-js-promptopia-app-git-main-manoharmeena123.vercel.app/`
