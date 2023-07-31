@@ -1,20 +1,41 @@
-# Next.js 13 Full Stack Project
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
-
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
  
-In this video, you'll learn:
-- Next.js 13 App Folder Structure
-- Next.js 13 Client Components vs Server Components
-- Next.js 13 File-based Routing (including dynamic and nested routes)
-- Next.js 13 page, layout, loading, and error Special Files
-- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
-- Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
+# Welcome 👋
+  ---
+# Promptopia
+Promptopia allows us to copy Already Developed AI Powered prompt.
 
+---
 ## Deployed Link
-`https://next-js-promptopia-app-git-main-manoharmeena123.vercel.app/`
+`Link` - `https://next-js-promptopia-app-git-main-manoharmeena123.vercel.app/`
+
+## About this project: 🙌
+- `This is Indivisual Project  and I completed this project in 3 days of span.`
+- `Every page of is Completely Responsive `
+
+
+---
+## Deployment
+For Deployment we used Netlify and Cyclic .Frontend deployed on Netlify and Backend deployed on Cyclic .
+ - Frontend deployed  - https://lucky-choux-d2be6b.netlify.app/
+ - Backend deployed  - https://long-pear-slug-belt.cyclic.app
+
+---
+## Our Team Members ❤️
+
+- [Manohar Meena : Team Leader](https://www.linkedin.com/in/manohar-meena-1a132221b)
+
+
+---
+
+### Technology we used....🔧
+
+- `Next.js`
+- `MongoDB`
+-  `Vercel`
+-  `Google Authentication`
+
+---
+
+
+
+
