@@ -18,9 +18,9 @@ For Deployment we used Netlify and Cyclic .Frontend deployed on Netlify and Back
 
 
 ---
-## Our Team Members ❤️
+##  Members ❤️
 
-- [Manohar Meena : Team Leader](https://www.linkedin.com/in/manohar-meena-1a132221b)
+- [Manohar Meena : ](https://www.linkedin.com/in/manohar-meena-1a132221b)
 
 
 ---
